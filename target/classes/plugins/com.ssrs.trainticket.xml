@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <id>com.ssrs.trainticket.TrainticketPlugin</id>
+    <class>com.ssrs.trainticket.TrainticketPlugin</class>
+    <name>trainticket</name>
+    <author>ssrs</author>
+    <provider>ssrs</provider>
+    <version>1.0</version>
+    <description>trainticket</description>
+
+</plugin>
